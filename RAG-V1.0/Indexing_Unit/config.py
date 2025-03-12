@@ -1,0 +1,9 @@
+pc_api = "" #Pinecone API Key
+open_ai_api = "" #OpenAI API Key
+pc_index_name = "" #Name of the destinated Pinecone Index
+namespace = "" #Name of the destinated Pinecone Namespace
+s3_bucket_name = "" #Name of the source S3 Bucket
+source_folder = r"" #Path to the S3 source folder
+upload_batch_size = 50
+chunk_size = 1000
+chunk_overlap = 200

@@ -1,0 +1,9 @@
+dipenv/
+ubuntuserver.pem
+testCode/
+awsConnect.txt
+requirements.txt
+RAG/__pycache__
+RAG/Indexing/__pycache__/
+combine-path.ps1
+EnvVariablen.env
